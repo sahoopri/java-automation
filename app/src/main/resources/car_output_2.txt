@@ -1,0 +1,4 @@
+VARIANT_REG,MAKE_MODEL,YEAR
+BD08KYE,Nissan,Note Tekna Auto,2008
+WV65AEO,Land Rover,Discovery Sport Se Tech Td4,2015
+SG18HTN,Volkswagen,Golf Se Navigation Tsi Evo,2018
